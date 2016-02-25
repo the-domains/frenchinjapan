@@ -1,9 +1,7 @@
-favicon: null
 name: frenchinjapan
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1469534
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7972142
-  brandStrength: 0.9731183
-  lightness: 0.8082438
   brandColors:
     - '#010102'
     - '#202F4B'
     - '#FF8802'
     - '#C6894A'
     - '#7F170E'
-  rhythmicContrast: 0.64187
-typography_spectrum: 0.1469534
-layout_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.75
+purpose: []
