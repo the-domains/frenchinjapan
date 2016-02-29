@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FrenchInJapan]]></title>
         <description><![CDATA[FrenchInJapan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frenchinjapan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:07:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 01:36:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frenchinjapan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Make Users Think Your App Loads Faster]]></title>
+            <description><![CDATA[<article><h1>How To Make Users Think Your App Loads Faster</h1><p>When we are designing, we don't have the means to simulate different loading speeds. So we don't always design the uncomfortable moments when users must wait for content to display. But internet speeds are not always guaranteed. This is especially true when an image or music is downloading.</p><img src="https://cdn-images-1.medium.com/max/800/1*L--PZVptC42tnL4R0ZTM1g.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/frenchinjapan/how-to-make-users-think-your-app-loads-faster/index.html</link>
+            <guid isPermaLink="false">59ba9fed-f3ca-4157-b65d-b0d4786a4962</guid>
+            <pubDate>Mon, 29 Feb 2016 01:35:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Galette complète]]></title>
-            <description><![CDATA[<article><h1>Galette complète</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5229587c-0b00-459c-9ec4-fc83fb11031c.png"></article>]]></description>
-            <link>undefinedgalette-complete/index.html</link>
+            <description><![CDATA[<article><h1>Galette complète</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c199d214a1ae1d232a2f02700288be592116a971.png"></article>]]></description>
+            <link>https://thegrid.ai/frenchinjapan/galette-complete/index.html</link>
             <guid isPermaLink="false">210616db-c4fa-49de-bae2-49e874abcfca</guid>
             <pubDate>Thu, 25 Feb 2016 04:07:10 GMT</pubDate>
         </item>
