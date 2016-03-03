@@ -4,8 +4,15 @@
         <description><![CDATA[FrenchInJapan]]></description>
         <link>https://thegrid.ai/frenchinjapan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 01:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 08:53:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/frenchinjapan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Macarons (lemon/pistachio)]]></title>
+            <description><![CDATA[<article><h1>Macarons (lemon/pistachio)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ffbd4f-fdfb-47de-b740-d59687cfdd4a.png"></article>]]></description>
+            <link>https://thegrid.ai/frenchinjapan/macarons-lemonpistachio/index.html</link>
+            <guid isPermaLink="false">be83f455-9f7a-4512-9846-973f330c309c</guid>
+            <pubDate>Thu, 03 Mar 2016 08:52:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Make Users Think Your App Loads Faster]]></title>
             <description><![CDATA[<article><h1>How To Make Users Think Your App Loads Faster</h1><p>When we are designing, we don't have the means to simulate different loading speeds. So we don't always design the uncomfortable moments when users must wait for content to display. But internet speeds are not always guaranteed. This is especially true when an image or music is downloading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5d20e69250be319a34b49733f5884ff8b333fb.jpg"></article>]]></description>
