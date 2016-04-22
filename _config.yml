@@ -1,41 +1,41 @@
-name: frenchinjapan
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.1469534
+title: FrenchInJapan
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: FrenchInJapan
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.25
+  brandStrength: 0.5
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#36373b'
     - '#fc414a'
     - '#c6997c'
     - '#ff0000'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.5376344
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: frenchinjapan
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1469534
+layout_spectrum: 1
